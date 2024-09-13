@@ -1,8 +1,11 @@
 
 # gcam-china-postCO2emiss
 
-*Author: Rui Wang and Yang Ou*
-*Contact:  Rui Wang - ruiwang.rr@gmail.com*
+Author: Rui Wang and Yang Ou
+
+Contact:  
+Rui Wang - ruiwang.rr@gmail.com
+Yang Ou  - yang.ou@pku.edu.cn
 
 ## Usage note
 
