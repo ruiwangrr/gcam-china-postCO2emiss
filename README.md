@@ -3,9 +3,7 @@
 
 Author: Rui Wang and Yang Ou
 
-Contact:  
-Rui Wang - ruiwang.rr@gmail.com
-Yang Ou  - yang.ou@pku.edu.cn
+Contact: Rui Wang - ruiwang.rr@gmail.com; Yang Ou  - yang.ou@pku.edu.cn
 
 ## Usage note
 
